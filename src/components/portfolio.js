@@ -16,7 +16,7 @@ class portfolio extends Component{
                             <div class="container1 border border-secondary rounded">
                                 <h3 class="p-2">About Me</h3>
                                 <p class="p-2 one">
-                                I am Jujjavarapu Krishna Chaitanya. Computer Science Student at VIT-AP uinversity, passionate to work in a competitive environment where I can showcase my
+                                I am Jujjavarapu Krishna Chaitanya, Computer Science Student at VIT-AP uinversity, passionate to work in a competitive environment where I can showcase my
                                 technical skills. </p>
                             </div>
                         </div>
